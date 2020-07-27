@@ -1,0 +1,282 @@
+{
+  "id": "1826636",
+  "name": "case",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1318909",
+      "name": "超市",
+      "font_class": "gouwu-2",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "1318927",
+      "name": "服装店",
+      "font_class": "yifu",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "5033757",
+      "name": "生鲜",
+      "font_class": "shengxian-haixian",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5609965",
+      "name": "旅行-08",
+      "font_class": "lvhang-",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "6708753",
+      "name": "04-数码",
+      "font_class": "-shuma",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "10332469",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12037101",
+      "name": "物流",
+      "font_class": "wuliu",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "13625256",
+      "name": "京东",
+      "font_class": "jingdong",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "14113877",
+      "name": "充值",
+      "font_class": "chongzhi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "15085897",
+      "name": "领劵中心",
+      "font_class": "lingjuanzhongxin",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "15463154",
+      "name": "拍卖,拍卖锤,拍卖行,拍卖锤",
+      "font_class": "paimai-paimaichui-paimaihang-paimaichui",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1257063",
+      "name": "食物图标",
+      "font_class": "01",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    },
+    {
+      "icon_id": "3104505",
+      "name": "旅游",
+      "font_class": "lvyou",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "3837495",
+      "name": "娱乐",
+      "font_class": "yule",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "3858875",
+      "name": "风土人情",
+      "font_class": "fengturenqing",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "7037111",
+      "name": "学习中心",
+      "font_class": "xuexizhongxin",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "8027256",
+      "name": "其他",
+      "font_class": "qita",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "12664875",
+      "name": "购物",
+      "font_class": "shopping",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "12664888",
+      "name": "住房",
+      "font_class": "housing",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14113885",
+      "name": "健康",
+      "font_class": "jiankang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "15343846",
+      "name": "交通",
+      "font_class": "jiaotong",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "14771908",
+      "name": "下午茶",
+      "font_class": "xiawucha",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "14771909",
+      "name": "芝士蛋糕",
+      "font_class": "zhishidangao",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "14771883",
+      "name": "苹果",
+      "font_class": "pingguo",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "14771884",
+      "name": "冰淇淋",
+      "font_class": "bingqilin",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "14771885",
+      "name": "梨",
+      "font_class": "li",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "14771886",
+      "name": "饼干",
+      "font_class": "binggan",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "14771887",
+      "name": "烤鸡腿",
+      "font_class": "kaojitui",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "14771888",
+      "name": "花茶",
+      "font_class": "huacha",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "14771889",
+      "name": "饺子",
+      "font_class": "jiaozi",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "14771890",
+      "name": "草莓",
+      "font_class": "caomei",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "14771891",
+      "name": "包子",
+      "font_class": "baozi",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "14771910",
+      "name": "鱼",
+      "font_class": "yu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "14771911",
+      "name": "西瓜",
+      "font_class": "xigua",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "14771912",
+      "name": "早餐",
+      "font_class": "zaocan",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "14771913",
+      "name": "香蕉",
+      "font_class": "xiangjiao",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "14771914",
+      "name": "纸杯蛋糕",
+      "font_class": "zhibeidangao",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "14771915",
+      "name": "炸丸子",
+      "font_class": "zhawanzi",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "14771917",
+      "name": "虾",
+      "font_class": "xia",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}
